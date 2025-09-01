@@ -58,4 +58,4 @@ print(d.Mul(a,b))
 <img width="568" height="216" alt="image" src="https://github.com/user-attachments/assets/9564e0fe-eeda-4769-b010-eb8ce53dabe4" />
 
 ## Result
-Thus, To write a Python program to calculate **Add, Sub & Division** using **Multiple Inheritance** is verified.
+Thus, To write a Python program to calculate **Div, Sub & Mul** using **Multiple Inheritance** is verified.
