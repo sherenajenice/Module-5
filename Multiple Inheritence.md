@@ -42,7 +42,9 @@ def Mul(self,a,b):
     
     return a*b;  
 
-a=int(input()) b=int(input())
+a=int(input()) 
+
+b=int(input())
 
 d = Derived()
 
