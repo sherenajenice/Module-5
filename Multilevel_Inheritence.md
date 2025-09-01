@@ -28,25 +28,25 @@ To write a Python program that uses multilevel inheritance to get and display a 
 ## Program
 class Person: 
 
-def init(self, name): 
+   def init(self, name): 
 
-self.name = name
+      self.name = name
 
 class Age(Person): 
 
-def init(self, name, age): 
+   def init(self, name, age): 
 
-super().init(name) 
+      super().init(name) 
 
-self.age = age
+      self.age = age
 
 class ID(Age): 
 
-def init(self, name, age, place): 
+   def init(self, name, age, place): 
 
-super().init(name, age) 
+      super().init(name, age) 
 
-self.place = place
+      self.place = place
 
 def display(self):
     
