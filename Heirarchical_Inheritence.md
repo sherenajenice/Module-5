@@ -101,5 +101,5 @@ pat.display()
 <img width="671" height="459" alt="image" src="https://github.com/user-attachments/assets/656df361-32a3-460e-8466-7c7be0c73246" />
 
 ## Result 
-This, To write a Python program that uses **Hierarchical Inheritance** to input and display **Employee** and **Patient** details is verified.
+Thus, To write a Python program that uses **Hierarchical Inheritance** to input and display **Employee** and **Patient** details is verified.
 
